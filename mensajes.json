@@ -1,0 +1,35 @@
+{
+  "saludos": {
+    "manana": [
+      "¡Buenos días! Vamos a empezar el día con energía.",
+      "¡Buen día! Aquí tienes tus prioridades para hoy.",
+      "¡Buenos días! Un nuevo día para alcanzar tus metas.",
+      "¡Hola! Espero que tengas una mañana muy productiva."
+    ],
+    "tarde": [
+      "¡Buenas tardes! Seguimos adelante con el día.",
+      "¡Buenas tardes! Así va tu progreso para hoy.",
+      "¡Hola! Un último empujón para esta tarde.",
+      "¡Buenas tardes! Revisa lo que queda pendiente."
+    ]
+  },
+  "notificaciones": {
+    "nueva_tarea": [
+      "Tienes una nueva tarea asignada.",
+      "Se ha creado una nueva tarea en tu lista.",
+      "Nueva tarea pendiente: ¡a por ella!",
+      "Un nuevo reto se ha añadido a tu tablero."
+    ],
+    "tarea_completada": [
+      "¡Buen trabajo! Has completado una tarea.",
+      "Tarea terminada con éxito. ¡Sigue así!",
+      "¡Una menos! Tarea marcada como completada.",
+      "¡Excelente progreso! Tarea finalizada."
+    ],
+    "recordatorio": [
+      "Tienes tareas pendientes que requieren tu atención.",
+      "Recordatorio: Revisa tus actividades para hoy.",
+      "No olvides echar un vistazo a tus próximas fechas límite."
+    ]
+  }
+}
